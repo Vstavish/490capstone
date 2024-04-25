@@ -7,5 +7,6 @@ Data.gov is The United States Government's open data site and was originally mad
 
 ## Who worked on this user guide
 Team Generic Open Dataset Project Charter #2
+<br>
 Herschel Combs, Kaden Harvey, Rachel Kwan, Khushboo Rathore and Victoria Stavish
 
