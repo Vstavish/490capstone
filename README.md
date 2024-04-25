@@ -4,3 +4,8 @@ The purpose of this instructional user guide is to aid in the understanding and 
 
 ## Background
 Data.gov is The United States Government's open data site and was originally made public in 2009 with the goal to publicize data about the nation and improve transparency about the nation and its government, according to the site’s ‘About’ page. Data.gov is managed and hosted by the U.S. General Services Administration and is developed publicly on GitHub.
+
+## Who worked on this user guide
+Team Generic Open Dataset Project Charter #2
+Herschel Combs, Kaden Harvey, Rachel Kwan, Khushboo Rathore and Victoria Stavish
+
